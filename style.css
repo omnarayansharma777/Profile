@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 25px;
+    background-color: rgb(204, 250, 218);
+}
+h1{
+    font-family: 'Sacramento', serif;
+    margin-top: 60px;
+    font-size:90px;
+    color: rgb(5, 88, 32);
+}
+h2{
+    font-family: 'Montserrat' ,serif,sans-serif;
+    color: rgb(5, 88, 32);
+    font-size: 50px;
+}
+h3{
+    color: rgb(5, 88, 32);
+}
+p{
+    font-family: 'Montserrat',sans-serif;
+}
+.top-container{
+    background-color: rgb(204, 250, 218);
+    padding-top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.para{
+    font-size: 20px;
+    margin-top: -70px;
+    font-weight: normal;
+    color:rgb(5, 88, 32);
+    display: block;
+}
+.skill-row{
+    height: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
+.profile{
+    height: 100vh;
+}
+.design-pic{
+    float: left;
+    margin-right: 30px;
+    margin-left: 15vw;
+}
+.design-pic-1{
+    float: right;
+    margin-right: 15vw;
+}
+.middle-container{
+    padding-top: 80px;
+}
+.bottom-container{
+    background-color: rgb(54, 172, 93);
+    color: rgb(0, 0, 0) ;
+    height: 90px;
+    
+}
+.footer-link{
+    position: relative;
+    padding-top: 50px;
+}
+p{
+    display: inline-block;
+}
+i{
+    color: rgb(0, 1, 0);
+    margin: 0px 20px;
+}
